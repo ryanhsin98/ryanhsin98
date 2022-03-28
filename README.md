@@ -18,6 +18,9 @@
   - Data analyst intern, KGI Bank
     - Constructed a customer clustering model and implement web crawling to gain public opinion to increase sales performance over the same period.
     - Cooperated with other departments to implement successfully the solution in Q4.
+  - 1st place, Machine Learning Competition
+    - Predict the survival of Titanic passengers.
+    - Private Leaderboard 1st place in Tsing hua University's Machine Learning Competition.
 - 🌱 **Activities**：
   -  Project Member, Google Developers Student Club (2022.03 - Present)                                              
   -  Co-founder, Data Analysis Club in NCKU (2021.09 - Present)    
