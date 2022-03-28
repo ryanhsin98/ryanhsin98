@@ -1,12 +1,12 @@
-##About me
+## About me
 
-###Introduction
+### Introduction
 - 👋 Hi, I’m Ryan Hsin (@ryanhsin98)
 - 👋 I’m currently studying at the Institute of Information Systems Management at the National Cheng Kung University, graduated from National Tsing Hua University with a bachelor's degree. 
 - 🌱 Mainly researching the application of machine learning in the field of business and manufacturing
 - 👀 I’m interested in researching how to apply data science techniques to analyze and interpret customer behavior to increase business performance.
 
-##Related experience
+### Related experience
 - 🌱 Acdemic：
   - GPA 4.2 / 4.3.
   - Developed the data science through Machine Learning, Artificial Intelligence, Optimization Theory, Python Programming courses and so on.
@@ -24,7 +24,7 @@
   -  Co-founder, Business Research Club in NTHU (2019.06 - 2020.06)                                                   
   -  Vice President in Local Committee, AIESEC in Taiwan (2017.12 - 2019.01)    
 
-##Contact me                               
+### Contact me                               
 - 📫 How to reach me：
   - Email：ryan.hsin98@gmail.com
   - LinedIN：https://www.linkedin.com/in/ryan-hsin-3368ba164/ 
