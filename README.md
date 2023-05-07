@@ -13,6 +13,9 @@
   - Collaborated with the professor the research such as web crawler and face recognition.  
   - Developed the business management skills through Technology Management, Marketing management courses and so on.
 - 🌱 **Intern/Project**：
+  - Data science intern (MTRDP), TSMC
+    - Developed and deployed a prediction model to solve the production inefficiency though XGBoost and PSO algorithm, reducing 8% downtime of the tool and improving accuracy of existing model by 32%.
+    - Collaborated with 3 production line engineers and IT manager to apply the domain knowledge in the feature engineering and enhance the feasibility of the project. The result was endorsed by the supervisor.
   - Data analysis project member, Kdan Software
     - Extracted textual features of e-mail titles to develop a machine learning model (SVM) with 81% accuracy for predicting the effectiveness of emails to improve the performance of e-mail marketing.
   - Data analyst intern, KGI Bank
@@ -21,6 +24,7 @@
   - 1st place, Machine Learning Competition
     - Predict the survival of Titanic passengers.
     - Private Leaderboard 1st place in Tsing hua University's Machine Learning Competition.
+   
 - 🌱 **Activities**：
   -  Project Member, Google Developers Student Club (2022.03 - Present)                                              
   -  Co-founder, Data Analysis Club in NCKU (2021.09 - Present)    
